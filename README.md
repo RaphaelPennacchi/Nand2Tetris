@@ -1,3 +1,6 @@
-# Nand2Tetris
+[OSSU](https://github.com/ossu/computer-science)
 
-This repository is made for storing and sharing my answers to the Nand2Tetris Course.
+# OSSU course
+
+This repository is made to track my progress and store my files of the OSSU computer science courses
+
